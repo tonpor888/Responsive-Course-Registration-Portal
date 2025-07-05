@@ -45,7 +45,7 @@ const Navbar: React.FC = () => {
       <nav className="container mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex items-center space-x-2">
-            <img src="https://www.mju.ac.th/th/img/logo.png" alt="Maejo University Logo" className="h-12" />
+            <img src="https://upload.wikimedia.org/wikipedia/th/thumb/b/b7/MJU_LOGO.svg/1200px-MJU_LOGO.svg.png" alt="Maejo University" className="h-12" />
             <div className="hidden md:flex flex-col">
               <span className="font-bold text-lg">ระบบทะเบียนนักศึกษา</span>
               <span className="text-sm">มหาวิทยาลัยแม่โจ้</span>
